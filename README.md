@@ -6,7 +6,7 @@ This repository contains the R Markdown source for:
 
 ## Contents
 
-- `reproducible_cpd_article.Rmd` — full analysis and manuscript source. Knits to a self-contained HTML report by default, and to a formatted Word (.docx) manuscript as a secondary format.
+- `Main_Manuscript.Rmd` — full analysis and manuscript source. Knits to a self-contained HTML report by default, and to a formatted Word (.docx) manuscript as a secondary format.
 - static landmark-scheme photographs (`landmark_scheme_anterior.jpeg` and `landmark_scheme_lateral.jpeg`) referenced by the manuscript.
 - Digitized landmark data for anterior facial and lateral craniofacial views (`ANTERIOR__IMAGES_SAMPLE_AND_CONTROL.TPS` and `LATERAL_IMAGES_4_SAMPLE_AND_CONTROL.TPS`)
 - repeat landmark data file for intra-observer digiting error assessment for both anterior facial and lateral craniofacial views (`ANTERIOR_REPLICATE.TPS` and `LATERAL_REPLICATE.TPS`)
