@@ -2,7 +2,7 @@
 
 This repository contains the R Markdown source for:
 
-> Bashir, M. A., & Sabo, I. Postnatal Craniofacial Geometric Morphometrics and Traditional Anthropometry as Markers of Cephalopelvic Disproportion: A Comparative Case-Control Study. Submitted to The American Journal of Human Biology
+> Bashir, M. A., & Sabo, I. Postnatal Craniofacial Geometric Morphometrics and Traditional Anthropometry as Markers of Cephalopelvic Disproportion: A Comparative Case-Control Study. Submitted to The American Journal Biological Anthropology
 
 ## Contents
 
