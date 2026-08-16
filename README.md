@@ -12,6 +12,8 @@ This repository contains the R Markdown source for:
 - repeat landmark data file for intra-observer digiting error assessment for both anterior facial and lateral craniofacial views (`ANTERIOR_REPLICATE.TPS` and `LATERAL_REPLICATE.TPS`)
 - files recording neonatal anthropometric measurements and confounding maternal variables of age, parity and height for both control and CPD cases (`Data_Sheet_of_Control.xlsx` and `Data_sheet_of_the_sample.xlsx`)
 - Data-processing/analysis scripts sourced by the `.Rmd` (`data_ingestion.R`, `primary_gm_analysis_geomorph.R`, `build_master_dataset_geomorph.R`, `measurement_error.R`, `traditional_anthropometric_regression.R`, `confounder_controlled_shape_analysis.R`, `size_analysis.R`, `allometry_controlled_shape_analysis.R`, `transformation_grid.R`, `error_bubble_plot.R`) should sit alongside the `.Rmd` in this folder.
+- `mybibfile.bib` containing the references used in the article
+- `apa.csl`, the APA citation style language used in the article
 
 ## Requirements
 
