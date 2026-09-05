@@ -9,6 +9,7 @@ This repository contains the R Markdown source for:
 - `Main_Manuscript.Rmd`: full analysis and manuscript source. Knits to a self-contained HTML report by default, and to a formatted Word (.docx) manuscript as a secondary format.
 - `figures_source/`: static landmark-scheme photographs (Figures 1–2) referenced by the manuscript.
 - Data-processing/analysis scripts sourced by the `.Rmd` (`data_ingestion.R`, `primary_gm_analysis_geomorph.R`, `build_master_dataset_geomorph.R`, `measurement_error.R`, `traditional_anthropometric_regression.R`, `confounder_controlled_shape_analysis.R`, `size_analysis.R`, `allometry_controlled_shape_analysis.R`, `transformation_grid.R`, `error_bubble_plot.R`) should sit alongside the `.Rmd` in this folder.
+- `elsevier-harvard.csl`: the citation style language file used to format the references used in the article
 
 ## Requirements
 
