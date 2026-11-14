@@ -43,6 +43,8 @@ Photographs are not shared, to protect participants' privacy. Figures 1–2 (`la
 | 11 | `transformation_grid.R` | Size- and covariate-adjusted TPS grids (Fig 4); exports the graphical abstract |
 | 12 | `error_bubble_plot.R` | Per-landmark measurement-error maps (Figs S1–S2) |
 | 13 | `participants_characteristics.R` | Participant characteristics by group (Table S1) |
+| 14 | `nested_loocv_classification.R` | Leave-one-out classification with PCA refitted, and the number of PCs selected, within each training fold (no information leakage) |
+| 15 | `check_lateral_scale.R` | Identifies the two lateral image batches; lateral shape and size models with batch as a covariate |
 
 All shape models use sequential (Type I) sums of squares with entry order maternal age, maternal height, parity, infant sex, [log centroid size], CPD group, so the group effect is conditional on the terms entered before it. Permutation tests use 9,999 iterations with `set.seed(42)`.
 
@@ -114,5 +116,6 @@ Knitting writes the following to the project folder:
 - **Landmark-scheme photographs**: not licensed for reuse; they show identifiable neonates and are published with parental consent for this study only.
 
 ## Contact
+Musa Ado Bashir, Department of Anatomy, Bayero University Kano, Nigeria — musabashir34@gmail.com
 
 Musa Ado Bashir, Department of Anatomy, Bayero University Kano, Nigeria — musabashir34@gmail.com
