@@ -116,6 +116,5 @@ Knitting writes the following to the project folder:
 - **Landmark-scheme photographs**: not licensed for reuse; they show identifiable neonates and are published with parental consent for this study only.
 
 ## Contact
-Musa Ado Bashir, Department of Anatomy, Bayero University Kano, Nigeria — musabashir34@gmail.com
 
 Musa Ado Bashir, Department of Anatomy, Bayero University Kano, Nigeria — musabashir34@gmail.com
